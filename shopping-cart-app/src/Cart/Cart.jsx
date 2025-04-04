@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import "./Cart.css";
 
 const FREE_GIFT = { id: 99, name: "Wireless Mouse", price: 0 };
-const THRESHOLD = 20000;
+const THRESHOLD = 21000;
 
 function Cart({ cart, setCart }) {
   const [showPopup, setShowPopup] = useState(false);
