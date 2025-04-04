@@ -2,7 +2,14 @@
 
 This is a React-based shopping cart application with a special **free gift** feature. When the cart total reaches ₹20000, a **Wireless Mouse** is automatically added as a free gift, and a **popup notification** appears.
 
-## Screenshots 
+## Screenshots
+![shopping-cart](https://raw.githubusercontent.com/VenkateshLatchireddy/shopping-cart-app/main/shopping-cart-app/src/assets/s1.png)
+
+![shopping-cart](https://raw.githubusercontent.com/VenkateshLatchireddy/shopping-cart-app/main/shopping-cart-app/src/assets/s2.png)
+
+![shopping-cart](https://raw.githubusercontent.com/VenkateshLatchireddy/shopping-cart-app/main/shopping-cart-app/src/assets/s3.png)
+
+![shopping-cart](https://raw.githubusercontent.com/VenkateshLatchireddy/shopping-cart-app/main/shopping-cart-app/src/assets/s4.png)
 
 
 ## 🚀 Features
