@@ -23,7 +23,7 @@ function Cart({ cart, setCart }) {
       setCart((prevCart) => prevCart.filter((item) => item.id !== FREE_GIFT.id));
       setHasUnlockedGift(false); 
     }
-  }, [subtotal, setCart, hasUnlockedGift]);
+  }, [subtotal,cart, setCart, hasUnlockedGift]);
 
   const updateQuantity = (id, delta) => {
     setCart((prevCart) =>
